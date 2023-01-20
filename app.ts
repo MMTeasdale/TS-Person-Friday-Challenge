@@ -26,5 +26,5 @@ let person = new Person("Mariah Teasdale", 24, "123 R2H St, North Carolina USA")
 console.log(person.getFullInfo(", "));
 
 // Console Log WITH errors.
-let person2 = new Person("John Doe", 35, undefined);
+let person2 = new Person("Osiel Torres", 21, undefined);
 console.log(person2.getFullInfo(", "));
